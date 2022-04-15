@@ -1,0 +1,55 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="27">
+            <item index="0" class="java.lang.String" itemvalue="spacy" />
+            <item index="1" class="java.lang.String" itemvalue="dateutil" />
+            <item index="2" class="java.lang.String" itemvalue="absl-py" />
+            <item index="3" class="java.lang.String" itemvalue="protobuf" />
+            <item index="4" class="java.lang.String" itemvalue="rsa" />
+            <item index="5" class="java.lang.String" itemvalue="numpy" />
+            <item index="6" class="java.lang.String" itemvalue="requests" />
+            <item index="7" class="java.lang.String" itemvalue="conllu" />
+            <item index="8" class="java.lang.String" itemvalue="tensorboard-plugin-wit" />
+            <item index="9" class="java.lang.String" itemvalue="certifi" />
+            <item index="10" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="11" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="12" class="java.lang.String" itemvalue="urllib3" />
+            <item index="13" class="java.lang.String" itemvalue="Markdown" />
+            <item index="14" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="15" class="java.lang.String" itemvalue="six" />
+            <item index="16" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="17" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="18" class="java.lang.String" itemvalue="torch" />
+            <item index="19" class="java.lang.String" itemvalue="chardet" />
+            <item index="20" class="java.lang.String" itemvalue="tensorboard" />
+            <item index="21" class="java.lang.String" itemvalue="future" />
+            <item index="22" class="java.lang.String" itemvalue="cachetools" />
+            <item index="23" class="java.lang.String" itemvalue="grpcio" />
+            <item index="24" class="java.lang.String" itemvalue="google-auth" />
+            <item index="25" class="java.lang.String" itemvalue="idna" />
+            <item index="26" class="java.lang.String" itemvalue="telegram" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="pika-stubs==0.1.3" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ficbot.models.name_gen.tf.build_model.SimpleImageNameModel.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
